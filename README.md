@@ -1,6 +1,6 @@
-- 👋  Ola, meu nome é Ezio.
-- 🌱 I’m currently learning  MBA em Full Stack pela  Faculdade Impacta e participando de bootcamps para ganhara expero e conseguir a minha vaga.
-- 💞️ I’m looking to collaborate em criar um portifólio no git, com desafios concluídos e ajudar os colegas da comunidde. 
+- ## Olá!!! meu nome é Ezio
+- 👨‍💻 I’m currently learning  MBA em Full Stack pela  Faculdade Impacta e participando de bootcamps para ganhara expero e conseguir a minha vaga.
+- 🥋 I’m looking to collaborate em criar um portifólio no git, com desafios concluídos e ajudar os colegas da comunidde. 
  ##
 <div align="center">
   <a href="https://github.com/eziocdl">
